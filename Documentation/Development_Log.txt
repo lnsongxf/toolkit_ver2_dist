@@ -1,0 +1,35 @@
+password: imf_toolkit_0818
+
+history of update:
+
+08/18/2017: original version 1.0
+
+10/12/2017: several typos in output are fixed
+
+==============================================================================================
+Version 1.01
+10/13/2017: (Crucial) Fixed a double multiplication of price when exporting Macro_Aggregates
+
+01/23/2018: (Crucial) Fixed failure of updating equilibrium price in price_table.txt by Infrastructure.exe, Both.exe, and Cash.exe. 
+
+==============================================================================================
+Major Update to Version 2.0
+02/27/2018
+Major Improvements:
+1. Two interfaces, toolkit_ss and toolkit_trans, for steady state and transitional dynamics
+2. toolkit_ss: 	a) welfare decomposition now supported
+		b) infrastructure investment can be made together with uniform basic income
+		c) infrastructure investment can be made separately for urban and rural
+3. toolkit_trans:
+		a) new interface to solve transitional dynamics
+		b) supports only cash transfer policy
+		c) exports data to Excel format
+		d) supports welfare decomposition
+4. Full scale update in documentation.
+5. Simplification in installation procedure
+
+Minor Improvements:
+1. Deletion of unused features: government balance sheet and consumption changes by deciles
+2. Deletion of computational accuracy control
+3. Simplification of UI	       
+4. Improvment on terminal messages
