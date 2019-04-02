@@ -32,4 +32,4 @@ Folder ./Documentation contains further documentation. (i) Guide.pdf provides a 
 
 Contact
 -----
-Xin Tang (xtang@imf.org) and Marina Mendes Tarvares (mmendestavares@imf.org)
+Xin Tang (xtang@imf.org) and Marina Mendes Tarvares (mmendestavares@imf.org).
