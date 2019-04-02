@@ -1,3 +1,5 @@
+<img src="https://github.com/zjutangxin/toolkit_ver2_dist/blob/master/Documentation/IMF_Logo.png" width="250" height="250" div align=right />
+
 
 The Welfare Effects of Fiscal Reforms
 ============
@@ -30,4 +32,4 @@ Folder ./Documentation contains further documentation. (i) Guide.pdf provides a 
 
 Contact
 -----
-Xin Tang (xtang@imf.org) and Marina Mendes Tarvares (mmendestavares@imf.org)
+Xin Tang (xtang@imf.org) and Marina Mendes Tarvares (mmendestavares@imf.org).
