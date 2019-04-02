@@ -1,4 +1,5 @@
-![image|512x397, 10%](https://github.com/zjutangxin/toolkit_ver2_dist/blob/master/Documentation/IMF_Logo.png)
+<img src="https://github.com/zjutangxin/toolkit_ver2_dist/blob/master/Documentation/IMF_Logo.png" width="250" height="250" div align=right />
+
 
 The Welfare Effects of Fiscal Reforms
 ============
