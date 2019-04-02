@@ -28,7 +28,7 @@ Getting Started
 ------
 toolkit_ss.m and toolkit_trans.m are the main UIs. 
 
-Folder ./Documentation contains further documentation. (i) Guide.pdf provides a very detailed user's guide providing step-by-step instructions on how to use the toolkit. It also covers all the technical features in detail. (ii) IMF_WP_18_146.pdf is the IMF Working Paper explaining the analytical framework used in the toolkit. (iii) "IMF_Applications.pdf" provides a list of recent IMF surveillance and program work that have used the toolkit.
+Folder ./Documentation contains further documentation. (i) Guide.pdf provides a very detailed user's guide providing step-by-step instructions on how to use the toolkit. It also covers all the technical features in detail. (ii) IMF_WP_18_146.pdf is the IMF Working Paper explaining the analytical framework used in the toolkit. (iii) IMF_Applications.pdf provides a list of recent IMF surveillance and program work that have used the toolkit.
 
 Contact
 -----
