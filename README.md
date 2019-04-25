@@ -6,7 +6,7 @@ The Welfare Effects of Fiscal Reforms
 
 Disclaimer
 -----
-Reuse of this tool and IMF data does not imply any endorsement of the research and/or product. Any research presented should not be reported as representing the views of the IMF, its Executive Board, member governments, and the Department for International Development (DFID) of the United Kingkom.
+Reuse of this tool and IMF data does not imply any endorsement of the research and/or product. Any research presented should not be reported as representing the views of the IMF, its Executive Board, member governments, and the Department for International Development (DFID) of the United Kingdom.
 
 Version
 ----
