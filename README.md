@@ -20,7 +20,7 @@ Prerequisites
 ----
 MATLAB of version higher than 2014b
 
-Intel MPI Runtime Library
+Intel MPI Runtime Library (Preferably version 2017 update 1)
 
 GNU Octave of version higher than 3.8.0 can be used to replace MATLAB if the GUIs are not used.
 
