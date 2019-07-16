@@ -3,6 +3,7 @@
 
 The Welfare Effects of Fiscal Reforms
 ============
+The current repository is dis-continued. Please see the official repository of the current project maintained by the International Monetary Fund at https://github.com/IMFInequality/inequality for the latest update.
 
 Disclaimer
 -----
